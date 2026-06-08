@@ -31,7 +31,7 @@ import tidalapi
 # CONFIGURATION — fill in before running
 # ─────────────────────────────────────────────
 
-QOBUZ_APP_ID     = "798273057"       # X-App-Id from DevTools → Network → Request Headers
+QOBUZ_APP_ID     = "YOUR_APP_ID"       # X-App-Id from DevTools → Network → Request Headers
 QOBUZ_USER_TOKEN = "YOUR_TOKEN_HERE" # user_auth_token from DevTools → Network → Response
 
 TIDAL_SESSION_FILE = "tidal_session.json"  # cached Tidal OAuth session
